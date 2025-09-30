@@ -1,6 +1,6 @@
 ## Clone
 ```
-git clone https://github.com/emekadefirst/PropBlog-Class-Teachin.git blog
+git clone https://github.com/emekadefirst/ProductAPI-BeB6.git
 
 ```
 
